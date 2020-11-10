@@ -1,3 +1,7 @@
+https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/GSDevTools3.min.js
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/SplitText3.min.js
+
 gsap.registerPlugin(GSDevTools, SplitText)
 let split
 let animation = gsap.timeline({})
