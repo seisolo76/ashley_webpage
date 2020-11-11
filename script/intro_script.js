@@ -7,7 +7,7 @@ var aText = new Array(
   "Q: Why should you care about Computational Sustainability?",
   "A: There are so many interesting applications and research being done in this field. It has so much potential to do good and help better the planet. It may sound boring and sound like it is just a bunch of technical jargon, but it is more than that!"	
 );
-var iSpeed = 75; // time delay of print out
+var iSpeed = 50; // time delay of print out
 var iIndex = 0; // start printing array at this posision
 var iArrLength = aText[0].length; // the length of the text array
 var iScrollAt = 20; // start scrolling up at this many lines
