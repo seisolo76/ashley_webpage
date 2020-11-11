@@ -1,7 +1,9 @@
 // set up text to print, each item in array is new line
 var aText = new Array(
   "Q: What is Computational Sustainability?", 
+  <br>,
   "A:Computational Sustainability is an interdisciplinary field that aims to apply techniques from computer science, information science, operations research, applied mathematics, and statistics for balancing environmental, economic, and societal needs for sustainable development (Gomez and Sabharwal).",
+  <br>,
   "Q: Why Computational Sustainability and not another topic?",
   "A: I chose computational sustainability as my topic because it relates to my major. I am currently a computer science major. When I was first thinking about what I wanted my topic to be I had a couple initial ideas, but none were really sticking. I decided to see if there was any area of environmental stewardship that had to do with computer science and that's how I found out about computational sustainability. The more I read into computational sustainability then more I knew that this is what my topic should be. It involved something I am passionate about so it was the perfect topic for me.",
   "Q: Why should you care about Computational Sustainability?",
